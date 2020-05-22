@@ -1,0 +1,118 @@
+body {
+ background-image: url("hatter.jpg");
+  background-color: coral;
+font-size:50px;
+color:blue;
+font-family:sans-serif;
+}
+h1 {
+font-family:sans-serif;
+text-align: center;
+font size : 200%;
+color: green;
+}
+
+p.para1 {
+
+font-size:30px;
+font-family:sans-serif;
+color:white;
+width : 50%;
+text-align: center;
+margin-top: 10%;
+margin-bottom: 8%;
+margin-right: auto;
+margin-left:auto;
+}
+.imagec {
+width: 30%; 
+height: auto;
+float: left;
+
+margin-top: 150px;
+
+}
+.imagec1 {
+width: 30%; 
+height: auto;
+float: right;
+margin-right: 5%;
+margin-top: 10%;
+}
+.btn {
+font-family:sans-serif;
+float:bottom;
+border: 1px solid #000000;
+background-color: white;
+padding: 10px 20px;
+font-size: 20px;
+color: #3e8c32;
+cursor: pointer;
+transition : 0.8s;
+position:relative;
+top:120px;
+left:0px;
+overflow: hidden;
+}
+
+.btn:hover{
+color:white;
+}
+.btn1 {
+font-family:sans-serif;
+float:bottom;
+left:110px;
+border: 1px solid #000000;
+background-color: white;
+padding: 10px 20px;
+font-size: 20px;
+color: #3e8c32;
+cursor: pointer;
+transition : 0.8s;
+position:relative;
+top:120px;
+left:0px;
+overflow: hidden;
+}
+
+.btn1:hover{
+color: white;
+}
+.btn2 {
+font-family:sans-serif;
+float:bottom;
+left:283px;
+border: 1px solid #000000;
+background-color: white;
+padding: 10px 20px;
+font-size: 20px;
+color: #3e8c32;
+cursor: pointer;
+transition : 0.8s;
+position :relative;
+top:120px;
+left:0px;
+overflow: hidden;
+}
+
+.btn2:hover{
+color: white;
+}
+p.para3
+{
+color:white;
+width: 20%;
+height:auto;
+float:left;
+font-size:20px;
+}
+.imagec
+{
+height: 50%; 
+width:auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+
